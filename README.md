@@ -1,10 +1,7 @@
-# Proyecto-Final-Python-Joner-Claudio.
-Este proyecto es desarrollado en Python utilizando el framework Django. 
-El proyecto trata de una app web sobre una Veterinaria, la cual renderiza la informacion que esta almacenadas en la base de datos y la muesta en las diferentes vistas dependiendo cual sea la solicitud.
-Debajo se encuentra el link para ver la app en funcionamiento 
-
+# Proyecto-FinaProyectoFinal-Lucas Nabarro.
+ 
 # Video Demostración.
-https://youtu.be/-H87qxX9Zgs
+https://www.youtube.com/watch?v=jlHrgyUnu68&ab_channel=SeniorPhantom
 
 _______________________________________________________________________________________________________________________________________________________________________
 # DOCUMENTACIÓN.
@@ -49,4 +46,4 @@ ________________________________________________________________________________
 Es una carpeta donde se encuentran todos los archivos HTML,usados por la app. Se utilza una platilla de BOOSTRAP y se aplica el concep de herencia a cada archivo.
 
 _______________________________________________________________________________________________________________________________________________________________________
-# Autor: Joner Claudio
+# Autor: Lucas Nabarro
